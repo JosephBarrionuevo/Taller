@@ -1,0 +1,75 @@
+.color_head{
+    background-color: #0139a5;
+}
+
+.navbar a{
+    color: white;
+    font-weight: bold;
+    font-size: 17px;
+    
+}
+
+.navbar a:hover{
+    background-color: rgb(3, 3, 39);
+    color: white;
+}
+
+.navbar .dropdown-item{
+    background-color: blue;
+}
+
+.carrusel{
+    padding: 10px;
+}
+.taller_logo img{
+    width: 170px;
+}
+
+.gomez{
+    width: 350px;
+}
+
+body{
+    background-color: #e7fbff;
+}
+.cuerpo{
+    padding: 10px;
+}
+
+.card{
+    padding: 5px;
+}
+.targeta{
+    padding: 10px;
+}
+.pie{
+    background-color: black;
+    color: rgba(255, 255, 255, 0.658);
+    height: auto;
+}
+
+.texto{
+    background-color: #323131;
+    color:#64fafa;
+    padding: 10px;
+}
+.texto h1{
+    border: 2px solid #64fafa;
+    padding: 10px;
+}
+
+.imagenes img{
+    height: 194px;
+}
+
+.navbar-nav img{
+    width: 15px;
+}
+
+footer img{
+    width: 15px;
+}
+
+footer a:hover{
+    text-decoration: none;
+}
